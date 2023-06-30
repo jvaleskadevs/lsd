@@ -62,7 +62,7 @@ npm install
 npm run dev
 ```
 To compile and deploy the Dealer contract, install dependencies, follow the Hardhat flow, add your network url and account, compile and run the  `scripts/deploy.ts`.
-```
+``` 
 npm install
 
 npx hardhat run scripts/deploy.ts
