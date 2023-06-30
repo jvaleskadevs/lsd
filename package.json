@@ -1,0 +1,12 @@
+{
+  "name": "hardhat-project",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.16.0"
+  },
+  "dependencies": {
+    "@superfluid-finance/ethereum-contracts": "^1.7.0",
+    "dotenv": "^16.3.1"
+  }
+}
