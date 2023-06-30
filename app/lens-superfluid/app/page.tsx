@@ -2,7 +2,7 @@
 import { Framework } from '@superfluid-finance/sdk-core'
 import { ethers } from 'ethers'
 import React, { useState, useEffect } from 'react'
-import { client, getProfiles, getProfilesByHandle, getFollowers, getPublicationsByTags, getPublications } from '../api'
+import { client, getProfiles, getProfilesByHandle, getFollowers, getPublications } from '../api'
 import { dealerAddress, dealerAbi, fDAIxAddress, mumbaiId } from './constants'
 
 declare global {
