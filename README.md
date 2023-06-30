@@ -43,9 +43,9 @@ Currently the application is limited and does not collect all publications or al
 You can change that on the `app/lens-superfluid/api.tsx` file.
 
 ## Dealer contract
-Address: 0x068300ce7e324ae9aea95826eb07c347b8d6e954
-Mumbai Scan: https://mumbai.polygonscan.com/address/0x068300ce7e324ae9aea95826eb07c347b8d6e954
-Superfluid app: https://app.superfluid.finance/history?view=0x068300cE7E324Ae9AEa95826EB07c347B8D6E954
+- Address: 0x068300ce7e324ae9aea95826eb07c347b8d6e954
+- Mumbai Scan: https://mumbai.polygonscan.com/address/0x068300ce7e324ae9aea95826eb07c347b8d6e954
+- Superfluid app: https://app.superfluid.finance/history?view=0x068300cE7E324Ae9AEa95826EB07c347B8D6E954
 
 ## Build
 First clone the repo:
