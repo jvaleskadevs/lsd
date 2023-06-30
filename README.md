@@ -8,11 +8,11 @@ This project is built on the Nader Dabit Lens x Superfluid repo, `app/lens-super
 
 LSD is able to send any type of Superfluid Agreement based on publications made by followers of any address or handle in the Lens protocol.
 
-Inspired by the Superfluid dashboard, in LSD you can view and filter by tags, the posts of the followers of any Lens profile (address or handle) aka you can view the Lens Superfluid Dashboard as any address or Lens handle. 
+Inspired by the Superfluid dashboard, in LSD you can view and filter by tags, the publications of the followers of any Lens profile (address or handle) aka you can view the Lens Superfluid Dashboard as any address or Lens handle. 
 
 So, for example, a Superfluid employee might not have access to the Superfluid profile in Lens, but could be in charge of the wallet making payments to Lens users participating in the promotional campaign.
 
-Allowing you to assign payments based on the tags of the posts, without needing to be the owner of the profile.
+Allowing you to assign payments based on the tags of the publications, without needing to be the owner of the profile.
 
 Payments can be made via CFA or IDA, using the core SDK or using ethereum/contracts to communicate with the Superfluid protocol on the blockchain.
 
@@ -41,6 +41,11 @@ It is also able to get all the publications of all followers of a Lens profile a
 
 Currently the application is limited and does not collect all publications or all followers to avoid excessive and useless use of resources. 
 You can change that on the `app/lens-superfluid/api.tsx` file.
+
+## Dealer contract
+Address: 0x068300ce7e324ae9aea95826eb07c347b8d6e954
+Mumbai Scan: https://mumbai.polygonscan.com/address/0x068300ce7e324ae9aea95826eb07c347b8d6e954
+Superfluid app: https://app.superfluid.finance/history?view=0x068300cE7E324Ae9AEa95826EB07c347B8D6E954
 
 ## Build
 First clone the repo:
